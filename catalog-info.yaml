@@ -1,10 +1,11 @@
 apiVersion: backstage.io/v1alpha1
-kind: Group
+kind: Component
 metadata:
-  name: mohit
-  description: Owner group for AIProject003
+  name: AIProject003
+  description: Ai project 03
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
-  type: team
-  profile:
-    displayName: Mohit
-  members: [ambrish, aditya]
+  type: service
+  owner: mohit
+  lifecycle: production
