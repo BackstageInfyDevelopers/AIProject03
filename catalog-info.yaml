@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: AIProject003
-  description: Backstage POC project. Contributors: BackstageInfy, AmbrishRamachandiran.
+  description: "Backstage POC project. Contributors: BackstageInfy, AmbrishRamachandiran."
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
