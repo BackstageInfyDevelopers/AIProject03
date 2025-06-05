@@ -2,10 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: AIProject003
-  description: Ai project 03
+  description: Backstage POC project. Contributors: BackstageInfy, AmbrishRamachandiran.
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
-  owner: mohit
+  owner: user:AmbrishRamachandiran
   lifecycle: production
