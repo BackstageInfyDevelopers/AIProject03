@@ -7,5 +7,4 @@ spec:
   type: team
   profile:
     displayName: Mohit
-    email: mohit@example.com
-  members: []
+  members: [ambrish, aditya]
